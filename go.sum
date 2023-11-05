@@ -95,10 +95,6 @@ github.com/gohutool/boot4go-fastjson v1.0.7 h1:e3j3hUJIRVWpWq2G+jLySWgZJekXOobJE
 github.com/gohutool/boot4go-fastjson v1.0.7/go.mod h1:/c3bD9pdQhJKwTZfmzVP/RbB25m++8JsiR/Nb+6JaEE=
 github.com/gohutool/boot4go-prometheus v1.0.2 h1:DiXx2fu73EjQkGPLSyXUBsytKyjru35G7oUf6z6tr90=
 github.com/gohutool/boot4go-prometheus v1.0.2/go.mod h1:qLX7ImHUkAiQcuObcfQaOeKLRPcuTVEVVNBDLZUH3bU=
-github.com/gohutool/boot4go-util v1.0.48 h1:trGWcWyUtVU/oVcj7gfz+M46sne+Yl68ta+rMjXKpc0=
-github.com/gohutool/boot4go-util v1.0.48/go.mod h1:CiqwTfuetwYmuQM2J4Z05pyBLS90k1z/K2K2WXYdoVg=
-github.com/gohutool/boot4go-util v1.0.50 h1:hkeS9JMRzZ+XN9UTkUY5rnI9UjpkI6eNk4+9chgDPuQ=
-github.com/gohutool/boot4go-util v1.0.50/go.mod h1:OY0lhVzcA/P/QUGQetdhZIqzc/djdqNad8vlQ5Q6Bbk=
 github.com/gohutool/boot4go-util v1.0.51 h1:Ale+PLGGVHla39AjGPKq2BZF4WoPJY8Fj33YkPpadOU=
 github.com/gohutool/boot4go-util v1.0.51/go.mod h1:OY0lhVzcA/P/QUGQetdhZIqzc/djdqNad8vlQ5Q6Bbk=
 github.com/gohutool/log4go v1.0.2 h1:iV8TkROQG+Cqvegg1zC5PPane1PAMwJ5vLFof9/1k8w=

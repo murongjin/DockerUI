@@ -30,13 +30,13 @@ const (
 )
 
 func InitAdminUser() {
-	c, err := dbPlus.QueryCount("select count(1) from t_user where username=?", "ginghan")
+	c, err := dbPlus.QueryCount("select count(1) from t_user where username=?", "admin")
 	if err != nil {
 		panic(err)
 	}
 
 	if c == 0 {
-		err = CreateUser("ginghan", "123456")
+		err = CreateUser("admin", "123456")
 
 		if err != nil {
 			panic(err)
